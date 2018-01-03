@@ -19,3 +19,5 @@ The payment invoice is sent to the customer as a mail using SMTP mail server.
 
 
 The project1 folder must be placed inside the web-apps folder of Apache Tomcat.
+
+The database is in sql.txt file which must be added to mysql database.
