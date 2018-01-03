@@ -1,0 +1,26 @@
+create table hotel(items varchar(20),type varchar(20),cost int(20));
+insert into hotel values("cheese","pizza",99);
+insert into hotel values("cheese-pepper","pizza",125);
+insert into hotel values("classic-cheese","pizza",298);
+insert into hotel values("fruit","salad",99);
+insert into hotel values("ice-cream","salad",129);
+insert into hotel values("double","salad",199);
+insert into hotel values("tomato","soup",89);
+insert into hotel values("baby-corn","soup",159);
+insert into hotel values("sezewhan","soup",199);
+insert into hotel values("cream","sandwich",59);
+insert into hotel values("ice-cream","sandwich",69);
+insert into hotel values("vegetable","sandwich",89);
+insert into hotel values("small","burger",109);
+insert into hotel values("medium","burger",149);
+insert into hotel values("large","burger",399);
+insert into hotel values("fried","fish",459);
+insert into hotel values("raw","fish",599);
+insert into hotel values("blob","fish",899);
+insert into hotel values("small","tuna",299);
+insert into hotel values("medium","tuna",399);
+insert into hotel values("large","tuna",499);
+insert into hotel values("fried","chicken",599);
+insert into hotel values("raw","chicken",499);
+insert into hotel values("flesh","chicken",999);
+
